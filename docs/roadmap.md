@@ -1,4 +1,6 @@
-# Request Control roadmap
+# Historical modernization roadmap
+
+> **Historical planning record only.** This file preserves the original 1.16 modernization plan and may describe work that has since been completed, superseded or deliberately deferred. The repository-root [`ROADMAP.md`](../ROADMAP.md) is the sole authoritative source for current project status, release gates and future work.
 
 This roadmap contains work intentionally kept out of the first modernization release so that each engine change can be validated independently.
 
